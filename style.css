@@ -16,4 +16,10 @@ li{
     padding:40px;
     list-style:none;
     letter-spacing:7px;
+    float:left;
+}
+
+img{
+    float:left;
+    padding:20px;
 }
