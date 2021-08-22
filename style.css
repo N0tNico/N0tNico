@@ -5,11 +5,11 @@
     font-weight:lighter;
     float:left;
     letter-spacing:9px;
+    width:50%;
 }
 .header-list{
     font-family:Futura;
     float:right;
-    display:flexible;
 }
 li{
     font-weight:lighter;
@@ -22,4 +22,8 @@ li{
 img{
     float:left;
     padding:20px;
+}
+
+.album{
+    padding:0px 40px;
 }
