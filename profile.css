@@ -1,17 +1,16 @@
 .header-logo{
     font-family:Futura;
     font-size:60px;
-    padding:10px;
+    padding:0px 10px;
     font-weight:lighter;
     float:left;
     letter-spacing:9px;
-    width:50%;
 }
 .header-list{
     font-family:Futura;
-    float:right;
+    float:left;
 }
-li{
+.header-list li{
     font-weight:lighter;
     padding:40px;
     list-style:none;
@@ -19,7 +18,10 @@ li{
     float:left;
     color:black;
 }
-
+.list li{
+    font-family:Helvetica;
+    list-style:none;
+}
 a{
     text-decoration: none;
     color: black;
@@ -27,4 +29,16 @@ a{
 .section-logo{
     font-family:Futura;
     font-size:20px;
+    float:left;
+}
+h1{
+    font-family:Helvetica;
+}
+
+
+.header{
+    position:fixed;
+}
+.main{
+    padding:150px 0px 0px 50px;
 }

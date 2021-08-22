@@ -1,16 +1,15 @@
 .header-logo{
     font-family:Futura;
     font-size:60px;
-    padding:10px;
+    padding:0px 10px;
     font-weight:lighter;
     float:left;
     letter-spacing:9px;
-    width:50%;
     color:black;
 }
 .header-list{
     font-family:Futura;
-    float:right;
+    float:left;
 }
 li{
     font-weight:lighter;
@@ -32,4 +31,10 @@ img{
 a{
     text-decoration: none;
     color: black;
+}
+.header{
+    position:fixed;
+}
+.main{
+    padding:150px 0px 0px 50px;
 }
