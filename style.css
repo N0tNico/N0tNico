@@ -1,0 +1,19 @@
+.header-logo{
+    font-family:Futura;
+    font-size:60px;
+    padding:10px;
+    font-weight:lighter;
+    float:left;
+    letter-spacing:9px;
+}
+.header-list{
+    font-family:Futura;
+    float:right;
+    display:flexible;
+}
+li{
+    font-weight:lighter;
+    padding:40px;
+    list-style:none;
+    letter-spacing:7px;
+}
