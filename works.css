@@ -1,3 +1,4 @@
+
 .header-logo{
     font-family:Futura;
     font-size:60px;
@@ -11,7 +12,12 @@
     font-family:Futura;
     float:right;
 }
-.li{
+
+.section-logo{
+    font-family:Futura;
+}
+
+.header-list li {
     font-weight:lighter;
     padding:40px;
     list-style:none;
@@ -20,18 +26,25 @@
     color:black;
 }
 
+.album li{
+    font-family:Helvetica;
+    font-weight:lighter;
+    letter-spacing:0px;
+    list-style:none;
+}
+
+.art-title{
+    font-family: Futura;
+    letter-spacing:0px;
+    font-weight:normal;
+}
+
 a{
     text-decoration: none;
     color: black;
 }
-.section-logo{
-    font-family:Futura;
-    font-size:20px;
-}
 img{
-    float:left;
+    align-items: center;
+    justify-content: center;
 }
 
-ul{
-    float:left;
-}
