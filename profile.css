@@ -17,20 +17,25 @@
     letter-spacing:7px;
     float:left;
     color:black;
+    font-size:20px;
 }
 .list li{
     font-family:Helvetica;
     list-style:none;
+    padding:10px 0px;
 }
 a{
-    text-decoration: none;
     color: black;
+}
+.header a{
+    text-decoration:none;
 }
 .section-logo{
     font-family:Futura;
     font-size:20px;
-    float:left;
+    margin-bottom:30px;
 }
+
 h1{
     font-family:Helvetica;
 }
@@ -40,5 +45,15 @@ h1{
     position:fixed;
 }
 .main{
-    padding:150px 0px 0px 50px;
+   padding:150px 0px 0px 50px;
+}
+img{
+    width:16px;
+}
+
+.insta{
+    float:left;
+}
+.instalink{
+    float:left;
 }
