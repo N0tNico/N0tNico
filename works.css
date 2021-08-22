@@ -6,13 +6,12 @@
     float:left;
     letter-spacing:9px;
     width:50%;
-    color:black;
 }
 .header-list{
     font-family:Futura;
     float:right;
 }
-li{
+.li{
     font-weight:lighter;
     padding:40px;
     list-style:none;
@@ -21,15 +20,18 @@ li{
     color:black;
 }
 
-img{
-    float:left;
-    padding:20px;
-}
-
-.album{
-    padding:0px 120px;
-}
 a{
     text-decoration: none;
     color: black;
+}
+.section-logo{
+    font-family:Futura;
+    font-size:20px;
+}
+img{
+    float:left;
+}
+
+ul{
+    float:left;
 }

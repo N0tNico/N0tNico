@@ -6,7 +6,6 @@
     float:left;
     letter-spacing:9px;
     width:50%;
-    color:black;
 }
 .header-list{
     font-family:Futura;
@@ -21,15 +20,11 @@ li{
     color:black;
 }
 
-img{
-    float:left;
-    padding:20px;
-}
-
-.album{
-    padding:0px 120px;
-}
 a{
     text-decoration: none;
     color: black;
+}
+.section-logo{
+    font-family:Futura;
+    font-size:20px;
 }
