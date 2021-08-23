@@ -55,3 +55,7 @@ a{
 .header{
     position:fixed;
 }
+.instalink{
+    width:50px;
+    float:left;
+}
