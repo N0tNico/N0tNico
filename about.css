@@ -48,5 +48,121 @@ h1{
     padding:150px 0px 0px 0px;
     text-align: center;
 }
-
-
+h1{
+    font-family:Futura;
+    font-weight: lighter;
+}
+@media screen and (max-width: 959px) {
+    .header-logo{
+        font-family:Futura;
+        font-size:50px;
+        padding:0px 10px;
+        font-weight:lighter;
+        float:left;
+        letter-spacing:9px;
+    }
+    .header-list{
+        font-family:Futura;
+        float:left;
+    }
+    .header-list li{
+        font-weight:lighter;
+        padding:15px 40px 15px 40px;
+        list-style:none;
+        letter-spacing:7px;
+        float:left;
+        color:black;
+        font-size:15px;
+    }
+    .list li{
+        font-family:Helvetica;
+        font-weight: lighter;
+        list-style:none;
+        padding:10px 0px;
+    }
+    a{
+        color: black;
+    }
+    .header a{
+        text-decoration:none;
+    }
+    .section-logo{
+        font-family:Futura;
+        font-size:20px;
+        margin-bottom:30px;
+    }
+    
+    h1{
+        font-family:Helvetica;
+    }
+    
+    
+    .header{
+        position:fixed;
+    }
+    .main{
+        padding:300px 0px 0px 0px;
+        text-align: center;
+    }
+    h1{
+        font-family:Futura;
+        font-weight: lighter;
+    }
+}
+@media screen and (max-width: 480px) {
+    .header-logo{
+        font-family:Futura;
+        font-size:50px;
+        padding:0px 10px;
+        font-weight:lighter;
+        float:left;
+        letter-spacing:9px;
+    }
+    .header-list{
+        font-family:Futura;
+        float:left;
+    }
+    .header-list li{
+        font-weight:lighter;
+        padding:40px;
+        list-style:none;
+        letter-spacing:7px;
+        float:left;
+        color:black;
+        font-size:15px;
+    }
+    .list li{
+        font-family:Helvetica;
+        font-weight: lighter;
+        list-style:none;
+        padding:10px 0px;
+    }
+    a{
+        color: black;
+    }
+    .header a{
+        text-decoration:none;
+    }
+    .section-logo{
+        font-family:Futura;
+        font-size:20px;
+        margin-bottom:30px;
+    }
+    
+    h1{
+        font-family:Helvetica;
+    }
+    
+    
+    .header{
+        position:fixed;
+    }
+    .main{
+        padding:350px 0px 0px 0px;
+        text-align: center;
+    }
+    h1{
+        font-family:Futura;
+        font-weight: lighter;
+    }
+}
