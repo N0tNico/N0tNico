@@ -60,3 +60,66 @@ a{
     width:50px;
     float:left;
 }
+@media screen and (max-width: 959px) {
+    .header-logo{
+        font-family:Futura;
+        font-size:50px;
+        padding:0px 10px;
+        font-weight:lighter;
+        float:left;
+        color:black;
+        letter-spacing:9px;
+    }
+    .header-list{
+        font-family:Futura;
+        float:left;
+    }
+    
+    .section-logo{
+        font-family:Futura;
+        margin-bottom:30px;
+        font-size:20px;
+    }
+    
+    .header-list li {
+        font-weight:lighter;
+        padding:15px 40px 15px 40px;
+        list-style:none;
+        letter-spacing:7px;
+        float:left;
+        color:black;
+        font-size:15px;
+    }
+    
+    .album li{
+        font-family:Helvetica;
+        font-weight:lighter;
+        letter-spacing:0px;
+        list-style:none;
+    }
+    .album ul{
+        margin-bottom:60px;
+    }
+    .art-title{
+        font-family: Futura;
+        letter-spacing:0px;
+        font-weight:normal;
+    }
+    
+    a{
+        text-decoration: none;
+        color: black;
+    }
+    .main{
+        padding:300px 0px 0px 0px;
+        text-align:center;
+    }
+    
+    .header{
+        position:fixed;
+    }
+    .instalink{
+        width:50px;
+        float:left;
+    }
+}
