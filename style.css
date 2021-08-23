@@ -93,3 +93,48 @@ a{
         text-align: center;
     }
 }
+@media screen and (max-width: 480px) {
+    .header-logo{
+        font-family:Futura;
+        font-size:37px;
+        padding:0px 8px;
+        font-weight:lighter;
+        float:left;
+        letter-spacing:6px;
+        color:black;
+        margin:0px auto 0px 0px;
+    }
+    .header-list{
+        font-family:Futura;
+        float:left;
+        margin:0px 0px 0px auto;
+    }
+
+
+    li{
+        font-weight:lighter;
+        padding:40px;
+        list-style:none;
+        letter-spacing:7px;
+        float:left;
+        color:black;
+        font-size:15px;
+    }
+
+
+    .main img{
+        float:left;
+    }
+
+    .album{
+        padding:0px;
+        }
+
+    .header{
+        position:fixed;
+    }
+    .main{
+        padding-top:0px;
+        text-align: center;
+    }
+}
