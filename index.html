@@ -7,6 +7,19 @@
         <link rel="stylesheet" type="text/css" href="style.css"/>
 
     </head>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+
+        <script type="text/javascript">
+            $(document).ready(function(){
+            $('.album').bxSlider({
+                auto: true,
+                pause: 5000,
+            });
+        });
+</script>
+
     <body>
         <div class="header">
             <div class="header-logo"> <a href="index.html">N!CO's GALLERY</a></div>
@@ -20,6 +33,7 @@
             </div>
         </div>
         <div class="main">
+
             <div class="album">
               <img src="https://i.ibb.co/gPVb6VW/EADBF563-F2-D2-413-C-9-E81-C607-AEE1-BFF0.jpg" alt="EADBF563-F2-D2-413-C-9-E81-C607-AEE1-BFF0" border="0">
               <img src="https://i.ibb.co/wBbrJcp/IMG-3822.jpg" alt="IMG-3822" border="0">
