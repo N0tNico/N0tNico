@@ -40,12 +40,11 @@ a{
     text-decoration: none;
     color: black;
 }
-.header{
-    position:fixed;
-}
+
 .main{
     padding-top: 170px;
     text-align: center;
+    margin:0px 300px;
 }
 
 @media screen and (max-width: 959px) {
@@ -85,12 +84,11 @@ a{
         padding:0px;
         }
 
-    .header{
-        position:fixed;
-    }
+    
     .main{
         padding-top: 350px;
         text-align: center;
+        margin:0px;
     }
 }
 @media screen and (max-width: 480px) {
@@ -131,11 +129,9 @@ a{
         padding-top:300px;
         }
 
-    .header{
-        position:fixed;
-    }
     .main{
         padding-top:300px;
         text-align: center;
+        margin:0px;
     }
 }
