@@ -63,6 +63,7 @@ h1{
 
 .selfintro{
     padding:30px;
+    list-style:none;
 }
 
 @media screen and (max-width: 959px) {
