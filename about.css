@@ -61,6 +61,10 @@ h1{
     color:black;
 }
 
+.selfintro{
+    padding:30px;
+}
+
 @media screen and (max-width: 959px) {
     .header-logo{
         font-family:Futura;
@@ -124,6 +128,9 @@ h1{
         list-style:none;
         padding:10px 0px;
         color:black;
+    }
+    .selfintro{
+        padding:30px;
     }
 }
 @media screen and (max-width: 480px) {
@@ -189,5 +196,8 @@ h1{
         list-style:none;
         padding:10px 0px;
         color:black;
+    }
+    .selfintro{
+        padding:30px;
     }
 }
