@@ -58,6 +58,7 @@ h1{
     font-weight: lighter;
     list-style:none;
     padding:10px 0px;
+    color:black;
 }
 
 @media screen and (max-width: 959px) {
@@ -122,6 +123,7 @@ h1{
         font-weight: lighter;
         list-style:none;
         padding:10px 0px;
+        color:black;
     }
 }
 @media screen and (max-width: 480px) {
@@ -186,6 +188,6 @@ h1{
         font-weight: lighter;
         list-style:none;
         padding:10px 0px;
-
+        color:black;
     }
 }
