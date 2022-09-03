@@ -62,7 +62,9 @@ h1{
 }
 
 .selfintro{
-    padding:30px;
+    padding-left:70px;
+    padding-right:70px;
+    padding-top:40px;
     list-style:none;
 }
 
@@ -131,7 +133,9 @@ h1{
         color:black;
     }
     .selfintro{
-        padding:30px;
+        padding-left:70px;
+        padding-right:70px;
+        padding-top:40px;
     }
 }
 @media screen and (max-width: 480px) {
@@ -199,6 +203,8 @@ h1{
         color:black;
     }
     .selfintro{
-        padding:30px;
+        padding-left:70px;
+        padding-right:70px;
+        padding-top:40px;
     }
 }
