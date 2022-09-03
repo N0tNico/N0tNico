@@ -165,4 +165,12 @@ h1{
         font-family:Futura;
         font-weight: lighter;
     }
+
+    .introduction{
+        font-family:Helvetica;
+        font-weight: lighter;
+        list-style:none;
+        padding:10px 0px;
+
+    }
 }
