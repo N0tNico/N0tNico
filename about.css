@@ -52,6 +52,14 @@ h1{
     font-family:Futura;
     font-weight: lighter;
 }
+
+.introduction{
+    font-family:Helvetica;
+    font-weight: lighter;
+    list-style:none;
+    padding:10px 0px;
+}
+
 @media screen and (max-width: 959px) {
     .header-logo{
         font-family:Futura;
@@ -107,6 +115,13 @@ h1{
     h1{
         font-family:Futura;
         font-weight: lighter;
+    }
+
+    .introduction{
+        font-family:Helvetica;
+        font-weight: lighter;
+        list-style:none;
+        padding:10px 0px;
     }
 }
 @media screen and (max-width: 480px) {
